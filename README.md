@@ -1,4 +1,3 @@
-# MD MEHEDI HASAN
 
 <div align="center">
   <img src="banner/banner-web.png" alt="Banner" width="100%">
