@@ -1,7 +1,7 @@
 # MD MEHEDI HASAN
 
 <div align="center">
-  <img src="banner/Yellow Illustrative Web Design Promotion Banner.png" alt="Banner" width="100%">
+  <img src="banner/banner-web.png" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">MD MEHEDI HASAN</h1>
@@ -47,5 +47,4 @@ Hi there! I'm MD MEHEDI HASAN, a passionate Junior Web Developer specializing in
 
 ---
 
-⭐ From [MD MEHEDI HASAN](https://github.com/mehedi9945)</content>
-<parameter name="filePath">f:\Projects\web development id & password\Guthub-Id-Password\mehedi9945\README.md
+⭐ From [MD MEHEDI HASAN](https://github.com/mehedi9945)
