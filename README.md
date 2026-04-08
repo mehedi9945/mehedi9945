@@ -5,6 +5,12 @@
 </div>
 
 <h1 align="center">MD MEHEDI HASAN</h1>
+<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+MD+MEHEDI+HASAN....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h3 align="center">Junior Web Developer (MERN)</h3>
 
