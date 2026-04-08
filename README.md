@@ -8,11 +8,6 @@
 
 <h3 align="center">Junior Web Developer (MERN)</h3>
 
-## 📍 Location
-Dhaka, Bangladesh
-
-## 📧 Email
-mh.mehedi9945@gmail.com
 
 ## 👨‍💻 About Me
 Hi there! I'm MD MEHEDI HASAN, a passionate Junior Web Developer specializing in the MERN stack. I'm currently learning web development through a comprehensive course that covers HTML, CSS, Tailwind CSS, JavaScript, Firebase, MongoDB, Express.js, React, and Node.js.
